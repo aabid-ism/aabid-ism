@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @aabid-ism [Aabid Ismail], a Computer Science Major at Princeton University.
-- 👀 I’m interested in converting ideas to full-stack webdev projects.
-- 🌱 I’m currently mastering ReactJs and the MERN Stack and its variants.
-- 💞️ I’m looking to be a part of a startup at ideation phase or development phase.
 - 📫 How to reach me: aabid@princeton.edu
