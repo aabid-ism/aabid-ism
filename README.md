@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @aabid-ism [Aabid Ismail], a Computer Science Major at Princeton University.
+- 🦾 I enjoy building things with a positive impact on society.
 - 📫 How to reach me: aabid@princeton.edu
